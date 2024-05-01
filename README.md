@@ -4,6 +4,8 @@
 Que maneira mais fácil de disponiblizar o acesso a um website ou a um texto do que por meio de um QR Code?
 Aponte a câmera do seu smartphone e você terá um acesso rápido!
 
+<img src="/img-qr-code/capitura_de_tela.jpg">
+
 ### Funcionalidades:
 Gerar e exibir um qrcode por meio da entrada de texto.
 
